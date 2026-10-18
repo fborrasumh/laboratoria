@@ -5,6 +5,8 @@ Técnicas de Laboratorio · Grado en Farmacia · Universidad Miguel Hernández d
 
 👉 **Abrir la app:** https://fborrasumh.github.io/laboratoria/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23451768.svg)](https://doi.org/10.5281/zenodo.23451768)
+
 Interfaz en español (por defecto), inglés y portugués.
 
 ## Qué hace
@@ -41,7 +43,7 @@ Prácticas incluidas: 1 · Técnicas generales (ficha completa); 2 · Extracció
 A partir del cuaderno de Jorge Follana Berná que corrige con IA las fichas de prácticas.
 
 ## Cómo citar
-Borrás Rocher, F., & Follana Berná, J. (2026). *LaboratorIA* [Software]. Zenodo.
+Borrás Rocher, F., & Follana Berná, J. (2026). *LaboratorIA* [Software]. Zenodo. https://doi.org/10.5281/zenodo.23451768
 
 ## Licencia
 MIT © 2026 Fernando Borrás Rocher, Jorge Follana Berná
